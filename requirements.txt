@@ -1,0 +1,9 @@
+pandas
+s3fs                                      
+s3transfer    
+python-dotenv 
+pyarrow 
+boto3
+mysql-connector
+mysqlclient
+mysql  
